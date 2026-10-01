@@ -7,7 +7,7 @@ I enjoy taking ideas from **hardware → backend → AI → deployment**, with a
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I Have Built
 
 - 🩺 **SEHAT** — AI-powered multilingual healthcare platform (SIH 2026).
 - 🤖 **Open Source LLM tooling** for running and deploying local models.
